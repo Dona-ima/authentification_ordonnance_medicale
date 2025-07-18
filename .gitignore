@@ -41,3 +41,5 @@ build/
 # 📄 Systèmes
 .DS_Store
 Thumbs.db
+
+app/create_super_admin.py
