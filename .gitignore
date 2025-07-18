@@ -1,0 +1,43 @@
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+*.sqlite3
+
+# 🛠️ VSCode / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# 🔐 Clés / secrets
+firebase_key.json
+
+*.pem
+*.key
+*.crt
+
+# 🔐 Fichier d'environnement
+.env
+.env.*
+
+# 📦 Dépendances
+*.egg-info/
+dist/
+build/
+*.log
+
+# 🐋 Docker
+*.pid
+*.sock
+*.db
+*.tar
+*.img
+
+# 📄 Systèmes
+.DS_Store
+Thumbs.db
