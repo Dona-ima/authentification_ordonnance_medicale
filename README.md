@@ -21,7 +21,7 @@ API de gestion des ordonnances médicales avec authentification par rôles (pati
 - **FastAPI**
 - **Firebase Admin SDK (Firestore)**
 - **Ed25519** pour les signatures numériques
-- **Python 3.08+**
+- **Python 3.10+**
 
 ---
 
