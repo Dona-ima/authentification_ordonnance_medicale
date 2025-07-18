@@ -52,7 +52,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES= Your expiration time in minutes here
 ## 🧑‍⚕️ Création d’un super admin (exécuter une seule fois)
 
 ```bash
-python scripts/create_super_admin.py
+python app/create_super_admin.py
 ```
 
 ---
